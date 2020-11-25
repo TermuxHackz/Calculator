@@ -1,6 +1,6 @@
 # Calculator
 Simple Calculator for termux to help with common mathematic problems
-# This tool is a simple calculator that heps solves your basic mathematical operations
+# This tool is a simple calculator that helps solves your basic mathematical operations
 which is easy to use and operate
 
 _This tool is not harmful in anyway but is really meant for educational purposes alone._
